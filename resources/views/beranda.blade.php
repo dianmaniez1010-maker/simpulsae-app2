@@ -557,7 +557,7 @@
             <p data-id="Kelola tagihan retribusi, lakukan pembayaran melalui tunai atau digital, dan pantau riwayat transaksi dengan mudah. Aplikasi tersedia untuk Android." data-en="Manage retribution bills, make cash or digital payments, and monitor transaction history easily. The app is available for Android.">
                 Kelola tagihan retribusi, lakukan pembayaran melalui tunai atau digital, dan pantau riwayat transaksi dengan mudah. Aplikasi tersedia untuk Android.
             </p>
-            <a href="{{ asset('downloads/simpul-sae-app.apk') }}" class="btn btn-primary" aria-label="Unduh APK Resmi Simpul SAE">
+            <a href="https://github.com/dianmaniez1010-maker/simpulsae-app2/releases/download/v1.0.0/simpul-sae-app.2.apk" class="btn btn-primary" aria-label="Unduh APK Resmi Simpul SAE">
                 ↓ &nbsp; <span data-id="Unduh APK Resmi" data-en="Download Official APK">Unduh APK Resmi</span>
             </a>
         </div>
@@ -650,7 +650,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // 1. GENERATE QR CODE APK DOWNLOAD
     const qrArea = document.getElementById("qr-apk");
     if (qrArea) {
-        const linkAPK = "https://github.com/dianmaniez1010-maker/simpulsae-app2/releases/download/v1.0.0/simpul-sae-app.2.apk";
+        const linkAPK = "{{ url('/downloads/simpul-sae-app.apk') }}";
         new QRCode(qrArea, {
             text: linkAPK,
             width: 120,

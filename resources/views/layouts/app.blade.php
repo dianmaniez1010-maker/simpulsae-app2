@@ -218,7 +218,7 @@
 
                 <a href="{{ url('/login') }}" class="btn btn-primary btn-admin-header">
                     <span class="admin-icon-circle">👤</span>
-                    <span data-id="Login Admin" data-en="Admin Login">Login Admin</span>
+                    <span data-id="Peta Pasar" data-en="Peta Pasar">Peta Pasar</span>
                 </a>
             </div>
         </div>

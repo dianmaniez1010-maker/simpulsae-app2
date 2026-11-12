@@ -351,7 +351,7 @@
         <button type="button" class="welcome-photo-button" id="welcomePhotoButton" aria-label="Perbesar foto pasar" aria-pressed="false">
             <img class="welcome-photo is-active" src="{{ asset('images/welcome-pasar.jpg') }}" alt="Tampak depan Pasar Induk Among Tani Kota Batu">
             <img class="welcome-photo" src="{{ asset('images/hero1.png') }}" alt="Suasana Pasar Induk Among Tani">
-            <img class="welcome-photo" src="{{ asset('images/hero-market.jpg') }}" alt="Area dan aktivitas Pasar Induk Among Tani">
+            <img class="welcome-photo" src="{{ asset('images/welcome-pasar2.png') }}" alt="Area dan aktivitas Pasar Induk Among Tani">
             <span class="welcome-photo-hint" data-id="Klik foto untuk memperbesar" data-en="Click photo to enlarge">Klik foto untuk memperbesar</span>
         </button>
         <button type="button" class="welcome-slide-arrow prev" aria-label="Foto sebelumnya" id="welcomePrev">‹</button>

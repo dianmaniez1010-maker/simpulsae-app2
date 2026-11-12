@@ -18,3 +18,7 @@ Route::get('/login', function () {
     // Contoh jika menggunakan view welcome/beranda sementara atau halaman login statis:
     return "Halaman Login untuk Role: " . request()->query('role');
 });
+
+Route::get('/profil-pasar', function () {
+    return view('profil-pasar');
+});

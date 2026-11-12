@@ -285,7 +285,7 @@
                 Sistem informasi retribusi pasar yang terintegrasi untuk mewujudkan pasar yang tertib, transparan, dan modern. Bersama kita dukung digitalisasi Pasar Induk Among Tani Kota Batu.
             </p>
             <div class="hero-buttons">
-                <a href="#aplikasi" class="btn btn-primary">↓ &nbsp; <span data-id="Peta Pasar" data-en="Market Map">Peta Pasar</span></a>
+                
                 <div class="hero-features">
                     <span class="feature-badge"><span class="badge-num">1</span> SMART</span>
                     <span class="feature-badge"><span class="badge-num">2</span> <span data-id="AKURAT" data-en="ACCURATE">AKURAT</span></span>
@@ -340,7 +340,7 @@
                 <div class="profile-point"><strong>35 <span data-id="Hari Kerja" data-en="Working Days">Hari Kerja</span></strong><small data-id="Jangka waktu pelaksanaan sesuai KAK 2026" data-en="Implementation period according to 2026 TOR">Jangka waktu pelaksanaan sesuai KAK 2026</small></div>
                 <div class="profile-point"><strong>Pasar Induk Among Tani</strong><small data-id="Lokasi pelaksanaan kegiatan" data-en="Activity implementation location">Lokasi pelaksanaan kegiatan</small></div>
                 <div class="profile-point"><strong data-id="Penguatan SDM" data-en="HR Capacity Building">Penguatan SDM</strong><small data-id="Bimtek dan pendampingan lapangan" data-en="Technical guidance and field mentoring">Bimtek dan pendampingan lapangan</small></div>
-                <div class="profile-point"><strong data-id="Integrasi Digital" data-en="Digital Integration">Integrasi Digital</strong><small>Simpul SAE, Website UPT, &amp; @pasarbatu.id</small></div>
+                <div class="profile-point"><strong data-id="Integrasi Digital" data-en="Digital Integration">Integrasi Digital</strong><small>Simpul SAE, Website Simpul SAE, &amp; @pasarbatu.id</small></div>
             </div>
         </div>
     </section>
@@ -361,7 +361,7 @@
             </article>
             <article class="kak-card">
                 <div class="kak-icon">▤</div>
-                <h3 data-id="Pengembangan Website UPT" data-en="UPT Website Development">Pengembangan Website UPT</h3>
+                <h3 data-id="Pengembangan Website Simpul SAE" data-en="UPT Website Development">Pengembangan Website Simpul SAE</h3>
                 <p data-id="Penyusunan arsitektur informasi, pengembangan kanal informasi UPT, dan pendampingan tata kelola konten website pasar." data-en="Information architecture compilation, UPT information channel development, and market website content governance mentoring.">Penyusunan arsitektur informasi, pengembangan kanal informasi UPT, dan pendampingan tata kelola konten website pasar.</p>
                 <a href="#website-upt" data-id="Lihat arah pengembangan →" data-en="View development direction →">Lihat arah pengembangan →</a>
             </article>
@@ -384,12 +384,12 @@
         <div class="module-list">
             <article class="module-item">
                 <b data-id="01. Operasional Simpul SAE" data-en="01. Simpul SAE Operations">01. Operasional Simpul SAE</b>
-                <p data-id="Pengoperasian aplikasi web Simpul SAE, alur pencatatan transaksi, dan troubleshooting kendala aplikasi." data-en="Operation of Simpul SAE web application, transaction recording workflow, and application troubleshooting.">Pengoperasian aplikasi web Simpul SAE, alur pencatatan transaksi, dan troubleshooting kendala aplikasi.</p>
+                <p data-id="Pengoperasian aplikasi Simpul SAE, alur pencatatan transaksi, dan troubleshooting kendala aplikasi." data-en="Operation of Simpul SAE web application, transaction recording workflow, and application troubleshooting.">Pengoperasian aplikasi Simpul SAE, alur pencatatan transaksi, dan troubleshooting kendala aplikasi.</p>
                 <div class="module-meta">MODUL BIMTEK 1</div>
             </article>
-            <article class="module-item" id="website-upt">
-                <b data-id="02. Website UPT & Branding Digital" data-en="02. UPT Website & Digital Branding">02. Website UPT &amp; Branding Digital</b>
-                <p data-id="Arsitektur informasi Website UPT, strategi konten, dan pengelolaan identitas digital @pasarbatu.id." data-en="UPT Website information architecture, content strategy, and @pasarbatu.id digital identity management.">Arsitektur informasi Website UPT, strategi konten, dan pengelolaan identitas digital @pasarbatu.id.</p>
+            <article class="module-item" id="website-Simpul SAE">
+                <b data-id="02. Website Simpul SAE & Branding Digital" data-en="02. Simpul SAE Website & Digital Branding">02. Website Simpul SAE &amp; Branding Digital</b>
+                <p data-id="Arsitektur informasi Website Simpul SAE, strategi konten, dan pengelolaan identitas digital @pasarbatu.id." data-en="UPT Website information architecture, content strategy, and @pasarbatu.id digital identity management.">Arsitektur informasi Website Simpul SAE, strategi konten, dan pengelolaan identitas digital @pasarbatu.id.</p>
                 <div class="module-meta">MODUL BIMTEK 2</div>
             </article>
             <article class="module-item" id="media-sosial">
@@ -405,7 +405,7 @@
         <div class="kak-heading">
             <p class="eyebrow" data-id="PEMANTAUAN PELAKSANAAN" data-en="IMPLEMENTATION MONITORING">PEMANTAUAN PELAKSANAAN</p>
             <h2 data-id="Monitoring & Evaluasi" data-en="Monitoring & Evaluation">Monitoring &amp; Evaluasi</h2>
-            <p data-id="Pemantauan pelaksanaan pendampingan selama 35 hari kerja. Data capaian dan hasil evaluasi ditampilkan setelah diinput oleh pengelola program." data-en="Monitoring of mentoring implementation for 35 working days. Achievement data and evaluation results are displayed after being entered by the program manager.">Pemantauan pelaksanaan pendampingan selama 35 hari kerja. Data capaian dan hasil evaluasi ditampilkan setelah diinput oleh pengelola program.</p>
+            <p data-id="Pemantauan pelaksanaan pendampingan. Data capaian dan hasil evaluasi ditampilkan setelah diinput oleh pengelola program." data-en="Monitoring of mentoring implementation for 35 working days. Achievement data and evaluation results are displayed after being entered by the program manager.">Pemantauan pelaksanaan pendampingan selama 35 hari kerja. Data capaian dan hasil evaluasi ditampilkan setelah diinput oleh pengelola program.</p>
         </div>
         <div class="kak-two-col">
             <div class="kak-panel">
@@ -413,7 +413,7 @@
                 <ul>
                     <li data-id="Kompetensi petugas dalam mengoperasikan Simpul SAE." data-en="Officers' competence in operating Simpul SAE.">Kompetensi petugas dalam mengoperasikan Simpul SAE.</li>
                     <li data-id="Ketertiban pencatatan transaksi E-Retribusi." data-en="Orderliness of E-Retribution transaction recording.">Ketertiban pencatatan transaksi E-Retribusi.</li>
-                    <li data-id="Perkembangan Website UPT dan pengelolaan @pasarbatu.id." data-en="UPT Website development and @pasarbatu.id management.">Perkembangan Website UPT dan pengelolaan @pasarbatu.id.</li>
+                    <li data-id="Perkembangan Website Simpul SAE dan pengelolaan @pasarbatu.id." data-en="Simpul SAE Website development and @pasarbatu.id management.">Perkembangan Website Simpul SAE dan pengelolaan @pasarbatu.id.</li>
                     <li data-id="Partisipasi peserta dalam Bimtek dan pendampingan lapangan." data-en="Participants' participation in Technical Guidance and field mentoring.">Partisipasi peserta dalam Bimtek dan pendampingan lapangan.</li>
                     <li data-id="Kendala pelaksanaan dan tindak lanjut perbaikannya." data-en="Implementation obstacles and follow-up improvements.">Kendala pelaksanaan dan tindak lanjut perbaikannya.</li>
                 </ul>
@@ -458,17 +458,17 @@
             <article class="kak-card">
                 <div class="kak-icon">01</div>
                 <h3 data-id="Laporan Pendahuluan" data-en="Preliminary Report">Laporan Pendahuluan</h3>
-                <p data-id="Rencana kerja 35 hari kerja, jadwal Bimtek Simpul SAE, dan konsep awal Website UPT." data-en="35-day work plan, Simpul SAE Technical Guidance schedule, and initial UPT Website concept.">Rencana kerja 35 hari kerja, jadwal Bimtek Simpul SAE, dan konsep awal Website UPT.</p>
+                <p data-id="Rencana kerja 35 hari kerja, jadwal Bimtek Simpul SAE, dan konsep awal Website Simpul SAE." data-en="35-day work plan, Simpul SAE Technical Guidance schedule, and initial UPT Website concept.">Rencana kerja 35 hari kerja, jadwal Bimtek Simpul SAE, dan konsep awal Website Simpul SAE.</p>
             </article>
             <article class="kak-card">
                 <div class="kak-icon">02</div>
                 <h3 data-id="Laporan Antara" data-en="Interim Report">Laporan Antara</h3>
-                <p data-id="Progres Bimtek, hasil evaluasi awal Simpul SAE, dan perkembangan Website UPT." data-en="Technical Guidance progress, initial Simpul SAE evaluation results, and UPT Website development.">Progres Bimtek, hasil evaluasi awal Simpul SAE, dan perkembangan Website UPT.</p>
+                <p data-id="Progres Bimtek, hasil evaluasi awal Simpul SAE, dan perkembangan Website Simpul SAE." data-en="Technical Guidance progress, initial Simpul SAE evaluation results, and UPT Website development.">Progres Bimtek, hasil evaluasi awal Simpul SAE, dan perkembangan Website Simpul SAE.</p>
             </article>
             <article class="kak-card">
                 <div class="kak-icon">03</div>
                 <h3 data-id="Laporan Akhir" data-en="Final Report">Laporan Akhir</h3>
-                <p data-id="Evaluasi adopsi E-Retribusi, integrasi @pasarbatu.id dan Website UPT, serta rekomendasi." data-en="E-Retribution adoption evaluation, @pasarbatu.id and UPT Website integration, and recommendations.">Evaluasi adopsi E-Retribusi, integrasi @pasarbatu.id dan Website UPT, serta rekomendasi.</p>
+                <p data-id="Evaluasi adopsi E-Retribusi, integrasi @pasarbatu.id dan Website Simpul SAE, serta rekomendasi." data-en="E-Retribution adoption evaluation, @pasarbatu.id and UPT Website integration, and recommendations.">Evaluasi adopsi E-Retribusi, integrasi @pasarbatu.id dan Website Simpul SAE, serta rekomendasi.</p>
             </article>
         </div>
     </section>

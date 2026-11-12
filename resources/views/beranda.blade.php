@@ -650,7 +650,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // 1. GENERATE QR CODE APK DOWNLOAD
     const qrArea = document.getElementById("qr-apk");
     if (qrArea) {
-        const linkAPK = "{{ url('/downloads/simpul-sae-app.apk') }}";
+        const linkAPK = "https://github.com/dianmaniez1010-maker/simpulsae-app2/releases/download/v1.0.0/simpul-sae-app.2.apk";
         new QRCode(qrArea, {
             text: linkAPK,
             width: 120,
